@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TripAdvisor Automation Test Suite">
+	<test name="TripAdvisor Automation Test Cases">
+		<classes>
+			<class name="com.qa.automation.tests.HomePageTest"></class>
+			<class name="com.qa.automation.tests.SearchResultPageTest"></class>
+			<class name="com.qa.automation.tests.ReviewPageTest"></class>
+		</classes>
+	</test>
+</suite>

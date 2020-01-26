@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TripAdvisor Automation Test Suite]">
+  <test name="TripAdvisor Automation Test Cases(failed)">
+    <classes>
+      <class name="com.qa.automation.tests.SearchResultPageTest">
+        <methods>
+          <include name="clickReviewBtnTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.automation.tests.SearchResultPageTest -->
+    </classes>
+  </test> <!-- TripAdvisor Automation Test Cases(failed) -->
+</suite> <!-- Failed suite [TripAdvisor Automation Test Suite] -->
